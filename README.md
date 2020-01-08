@@ -1,2 +1,2 @@
 # cursojava2019
-Meus trabalhos como Programador em aprendizdo
+Meus trabalhos como Programador em aprendizado
