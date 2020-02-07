@@ -11,6 +11,7 @@ public class ExemploClasseMath {
 		System.out.println ("Sorteio entre 50 e 80: " + resultado);
 		
 		//Sorteando a mega-sena
+		
 	}
 
 }
